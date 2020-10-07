@@ -1,0 +1,219 @@
+a {
+  text-decoration: none;
+}
+
+div.SideBar {
+  padding-left: 1em;
+  padding-right: 1em;
+  right: 0;
+  float: right;
+  border: thin solid black;
+  background: #f2f2f2;
+  color: black;
+}
+
+.CollectionTitle {
+  font-weight: bold;
+}
+.PageTitle {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.Summary {
+}
+.Signature {
+}
+.Remarks {
+}
+.Members {
+}
+.Copyright {
+}
+
+.Section {
+  font-size: 125%;
+  font-weight: bold;
+}
+p.Summary {
+  margin-left: 1em;
+}
+.SectionBox {
+  margin-left: 2em;
+}
+.NamespaceName {
+  font-size: 105%;
+  font-weight: bold;
+}
+.NamespaceSumary {
+}
+.MemberName {
+  font-size: 115%;
+  font-weight: bold;
+  margin-top: 1em;
+}
+.Subsection {
+  font-size: 105%;
+  font-weight: bold;
+}
+.SubsectionBox {
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
+
+.CodeExampleTable {
+  background-color: #f5f5dd;
+  border: thin solid black;
+  padding: 0.25em;
+  color: black;
+}
+
+.TypesListing {
+  border-collapse: collapse;
+}
+
+td {
+  vertical-align: top;
+}
+th {
+  text-align: left;
+}
+
+.TypesListing td {
+  margin: 0px;
+  padding: 0.25em;
+  border: solid gray 1px;
+}
+
+.TypesListing th {
+  margin: 0px;
+  padding: 0.25em;
+  background: #f2f2f2;
+  color: black;
+  color: black;
+  border: solid gray 1px;
+}
+
+div.Footer {
+  border-top: 1px solid gray;
+  margin-top: 1.5em;
+  padding-top: 0.6em;
+  text-align: center;
+  color: gray;
+}
+
+span.NotEntered /* Documentation for this section has not yet been entered */ {
+  font-style: italic;
+  color: red;
+}
+
+div.Header {
+  background: #b0c4de;
+  border: double;
+  border-color: white;
+  border-width: 7px;
+  padding: 0.5em;
+}
+
+div.Header * {
+  font-size: smaller;
+}
+
+div.Note {
+}
+
+i.ParamRef {
+}
+
+i.subtitle {
+}
+
+ul.TypeMembersIndex {
+  text-align: left;
+  background: #f2f2f2;
+  color: black;
+}
+
+ul.TypeMembersIndex li {
+  display: inline;
+  margin: 0.5em;
+}
+
+table.HeaderTable {
+}
+
+table.SignatureTable {
+}
+
+table.Documentation,
+table.Enumeration,
+table.TypeDocumentation {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table.Documentation tr th,
+table.TypeMembers tr th,
+table.Enumeration tr th,
+table.TypeDocumentation tr th {
+  background: #f2f2f2;
+  color: black;
+  padding: 0.8em;
+  border: 1px solid gray;
+  text-align: left;
+  vertical-align: bottom;
+}
+
+table.Documentation tr td,
+table.TypeMembers tr td,
+table.Enumeration tr td,
+table.TypeDocumentation tr td {
+  padding: 0.5em;
+  border: 1px solid gray;
+  text-align: left;
+  vertical-align: top;
+}
+
+table.TypeMembers {
+  border: 1px solid #c0c0c0;
+  width: 100%;
+}
+
+table.TypeMembers tr td {
+  background: #f2f2f2;
+  color: black;
+  border: white;
+}
+
+table.Documentation {
+}
+
+table.TypeMembers {
+}
+
+div.CodeExample {
+  width: 100%;
+  border: 1px solid #dddddd;
+  background: #f2f2f2;
+  color: black;
+}
+
+div.CodeExample p {
+  margin: 0.5em;
+  border-bottom: 1px solid #dddddd;
+}
+
+div.CodeExample div {
+  margin: 0.5em;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+div.Signature {
+  border: 1px solid #c0c0c0;
+  background: #f2f2f2;
+  color: black;
+  padding: 1em;
+}
